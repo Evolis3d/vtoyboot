@@ -4,6 +4,8 @@ Backup for the script that makes a Linux install fully portable VHD/VDI on Vento
 # How
 Just extract the .tar.gz file then run it with `sh ventoyboot.sh`
 
+**NOTE:** You **must** run this script everytime you do an upgrade, change drivers or install a new kernel, initramfs...
+
 # Why
 I've been looking for this script a whole week. It's not only stupidly hidden enough but also undocumented for similar nonsensical reasons...
 
